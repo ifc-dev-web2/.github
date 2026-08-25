@@ -1,6 +1,8 @@
 # 💻 IFC Dev Web
 
-Organização educacional destinada às atividades de Desenvolvimento Web
+Organização educacional destinada às atividades de Desenvolvimento Web dos
+cursos Técnico em Informática para Internet e Tecnologia em Redes de
+Computadores do Instituto Federal Catarinense — Campus Araquari.
 
 ## 🎓 Cursos participantes
 
