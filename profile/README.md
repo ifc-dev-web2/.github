@@ -1,7 +1,25 @@
 # 💻 IFC Dev Web
 
 Organização educacional destinada às atividades de Desenvolvimento Web
-do Ensino Técnico Integrado do Instituto Federal Catarinense — Campus Araquari.
+
+## 🎓 Cursos participantes
+
+Esta organização reúne projetos e atividades desenvolvidos em componentes
+curriculares relacionados ao Desenvolvimento Web no IFC Campus Araquari.
+
+### 🖥️ Ensino Técnico Integrado
+
+[**Técnico em Informática para Internet**](https://informatica.memoria.araquari.ifc.edu.br/)
+
+Curso técnico integrado ao Ensino Médio, com formação voltada ao desenvolvimento
+de aplicações, interfaces e soluções para a internet.
+
+### 🌐 Ensino Superior
+
+[**Tecnologia em Redes de Computadores**](http://redes.memoria.araquari.ifc.edu.br/)
+
+Curso superior de tecnologia voltado à infraestrutura, administração,
+segurança e programação aplicada às redes de computadores.
 
 ## 🎯 Objetivo
 
